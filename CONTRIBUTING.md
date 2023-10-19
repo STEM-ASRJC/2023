@@ -8,7 +8,7 @@ This repository is to store the resources and activities by ASRJC STEM members o
 ## Contributing guide
 - In this repo, we are open to any kind of contribution, such as resources, projects, artworks, code snippets, documentaries, etc. as long as they are relevant to STEM and CCA activities.
 - You can contribute via submitting Pull Request, or suggest a change via creating a new Issue (see below)
-- Ensure that text submissions are have no spelling or grammatical errors. If you found such errors, you can submit a Pull Request to fix them.
+- Ensure that text submissions are have no spelling or grammatical errors. If you find such errors, you can submit a Pull Request to fix them.
 
 ### Issue
 1. If you want to __suggest a structual change__ or __raise a problem__ about __this repo__, make an [Issue](https://github.com/TheAlgorithms/Python/issues/new). [Tutorial](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
