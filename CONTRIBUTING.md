@@ -18,7 +18,8 @@ This repository is to store the resources and activities by ASRJC STEM members o
 2. Fork this repo. [Tutorial](https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository)
 3. Add or edit files in the __forked repo__ and submit a PR directly. [Tutorial](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 4. PR must be relevant and appropriate to be accepted and merged to the main branch.
-5. If you want to resolve an open Issue, submit a PR and add `Fixes #{ISSUE_NUMBER}` or `Closes #{ISSUE_NUMBER}` to the description of PR. For example, if you are resolving Issue #1, please add `Fixes #1` to the PR description.
+5. Each PR must only change/add/delete one file. If you want to make changes to multiple files, create multiple PRs.
+6. If you want to resolve an open Issue, submit a PR and add `Fixes #{ISSUE_NUMBER}` or `Closes #{ISSUE_NUMBER}` to the description of PR. For example, if you are resolving Issue #1, please add `Fixes #1` to the PR description.
 
 <br></br>Enjoy contributing! Discere Servire - Non Mihi Solum <br></br>
 STEM EXCO, Oct 2023
